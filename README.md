@@ -1,20 +1,18 @@
 # Movies app
+Facebook Movies:[https://github.com/facebook/react-native/tree/master/Examples/Movies](https://github.com/facebook/react-native/tree/master/Examples/Movies)
 
-The Movies app is a demonstration of basic concepts, such as fetching data, rendering a list of data including images, and navigating between different screens.
+豆瓣电影：
+
+![1](http://ww4.sinaimg.cn/large/8bd0decfgw1f3be4aqj79j208w0fsmy8.jpg)
+![2](http://ww3.sinaimg.cn/large/8bd0decfgw1f3be59mcjfj208w0fs0tp.jpg)
 
 ## Running this app
-
-Before running the app, make sure you ran:
-
-    git clone https://github.com/facebook/react-native.git
-    cd react-native
-    npm install
 
 ### Running on iOS
 
 Mac OS and Xcode are required.
 
-- Open `Examples/Movies/Movies.xcodeproj` in Xcode
+- Open `Movies/Movies.xcodeproj` in Xcode
 - Hit the Run button
 
 See [Running on device](https://facebook.github.io/react-native/docs/running-on-device-ios.html) if you want to use a physical device.
